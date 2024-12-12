@@ -1,4 +1,4 @@
-# Job Recomenddation API
+# Job Recommendation API
 
 This API currently is:
 - Under active development.
